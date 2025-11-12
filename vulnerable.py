@@ -1,5 +1,7 @@
 # file: vuln_test.py
 
+#hello
+
 import os
 
 def run_user_command():
